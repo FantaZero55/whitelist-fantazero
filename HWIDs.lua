@@ -9,4 +9,6 @@ return {
   -- Pure
   "D98EC341-970B-4634-9DC2-667BE07D743C",
   -- Saba
+  "0A50C1DE-94EB-4F29-B5C0-055594229D4A",
+  -- Elf
 }
