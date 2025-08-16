@@ -11,4 +11,6 @@ return {
   -- Saba
   "0A50C1DE-94EB-4F29-B5C0-055594229D4A",
   -- Elf
+  "66611620-4D3A-474A-9687-0EA947AB30D1",
+  -- Saige
 }
