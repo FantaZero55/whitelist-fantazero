@@ -13,4 +13,6 @@ return {
   -- Elf
   "66611620-4D3A-474A-9687-0EA947AB30D1",
   -- Saige
+  "8A2DBE11-6859-456A-B0F1-32DB31A6CF7A",
+  -- Jay
 }
