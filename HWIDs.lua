@@ -19,4 +19,6 @@ return {
   -- Xeno
   "7E16E9B2-6037-4385-AAAD-CA35F60AA029",
   -- Koz
+  "570F626C-9B3E-4CD3-9592-F7A0326E4538",
+  -- Znil
 }
