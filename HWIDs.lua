@@ -17,4 +17,6 @@ return {
   -- Jay
   "74C8F01E-3884-4948-B0B2-DB961A467A6F",
   -- Xeno
+  "7E16E9B2-6037-4385-AAAD-CA35F60AA029",
+  -- Koz
 }
