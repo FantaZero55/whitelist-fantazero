@@ -15,4 +15,6 @@ return {
   -- Saige
   "8A2DBE11-6859-456A-B0F1-32DB31A6CF7A",
   -- Jay
+  "74C8F01E-3884-4948-B0B2-DB961A467A6F",
+  -- Xeno
 }
