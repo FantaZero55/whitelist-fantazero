@@ -21,4 +21,6 @@ return {
   -- Koz
   "570F626C-9B3E-4CD3-9592-F7A0326E4538",
   -- Znil
+  "42C0F16E-3CC5-49A5-A3B5-6660782D3BC3",
+  -- Jecka
 }
