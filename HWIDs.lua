@@ -23,4 +23,6 @@ return {
   -- Znil
   "42C0F16E-3CC5-49A5-A3B5-6660782D3BC3",
   -- Jecka
+  "5759CC17-B645-430E-AE5E-BBAF74F32E96",
+  -- World
 }
