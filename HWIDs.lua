@@ -25,4 +25,6 @@ return {
   -- Jecka
   "5759CC17-B645-430E-AE5E-BBAF74F32E96",
   -- World
+  "4FFB4B88-394C-44C0-8E93-FEE88450EC57",
+  -- Eray
 }
