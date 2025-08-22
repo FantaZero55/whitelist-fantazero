@@ -29,4 +29,6 @@ return {
   -- Eray
   "25F15C0F-3B4E-46E1-B5AA-DC297F784605",
   -- Xuhinese
+  "50A72D72-98B4-473A-B803-0BF9BF055F23",
+  -- Leywin
 }
