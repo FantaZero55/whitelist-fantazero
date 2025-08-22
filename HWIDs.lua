@@ -27,4 +27,6 @@ return {
   -- World
   "4FFB4B88-394C-44C0-8E93-FEE88450EC57",
   -- Eray
+  "25F15C0F-3B4E-46E1-B5AA-DC297F784605",
+  -- Xuhinese
 }
