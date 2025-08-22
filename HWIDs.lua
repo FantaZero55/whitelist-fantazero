@@ -31,4 +31,6 @@ return {
   -- Xuhinese
   "50A72D72-98B4-473A-B803-0BF9BF055F23",
   -- Leywin
+  "BD653B62-A8F4-4B3D-B65E-D6FB1FB33C16",
+  -- Taki
 }
