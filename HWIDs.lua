@@ -33,4 +33,6 @@ return {
   -- Leywin
   "BD653B62-A8F4-4B3D-B65E-D6FB1FB33C16",
   -- Taki
+  "67FCADD8-D01F-47C5-B29A-4A77FD6EE5CF",
+  -- Jorking
 }
