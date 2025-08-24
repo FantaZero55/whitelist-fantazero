@@ -35,4 +35,6 @@ return {
   -- Jorking
   "E7ACF0DA-E51B-49FF-9327-C31BD05ED40F",
   -- Malenci
+  "2C030467-E794-4B9B-A0FD-42CD18C4075A",
+  -- E
 }
