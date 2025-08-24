@@ -35,4 +35,6 @@ return {
   -- Malenci
   "2C030467-E794-4B9B-A0FD-42CD18C4075A",
   -- E
+  "50A72D72-98B4-473A-B803-0BF9BF055F23",
+  -- Leywin
 }
