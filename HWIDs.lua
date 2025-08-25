@@ -37,4 +37,6 @@ return {
   -- E
   "50A72D72-98B4-473A-B803-0BF9BF055F23",
   -- Leywin
+  "7EE96C39-6474-45C8-BD96-740FCA510B62",
+  -- Star
 }
